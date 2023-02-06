@@ -1,0 +1,36 @@
+﻿  Admin.cpp
+  AdminFactory.cpp
+  Car.cpp
+  Client.cpp
+D:\study\2semestr\project_taxi\project_taxi\Client.cpp(35,9): warning C4244: аргумент: преобразование "float" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\study\2semestr\project_taxi\project_taxi\Client.cpp(37,9): warning C4244: аргумент: преобразование "float" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\study\2semestr\project_taxi\project_taxi\Client.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\2semestr\project_taxi\project_taxi\Client.cpp(68,13): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+D:\study\2semestr\project_taxi\project_taxi\Client.cpp(116,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ClientFactory.cpp
+  DataBase.cpp
+D:\study\2semestr\project_taxi\project_taxi\DataBase.cpp(414,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\2semestr\project_taxi\project_taxi\DataBase.cpp(553,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Driver.cpp
+  Operator.cpp
+D:\study\2semestr\project_taxi\project_taxi\Operator.cpp(101,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  OperatorFactory.cpp
+  Order.cpp
+  project_taxi.cpp
+D:\study\2semestr\project_taxi\project_taxi\project_taxi.cpp(76,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  User.cpp
+  UserFactory.cpp
+  Создание кода...
+D:\study\2semestr\project_taxi\project_taxi\DataBase.cpp(109): warning C4715: DataBase::findClient: значение возвращается не при всех путях выполнения
+D:\study\2semestr\project_taxi\project_taxi\DataBase.cpp(170): warning C4715: DataBase::findOperator: значение возвращается не при всех путях выполнения
+D:\study\2semestr\project_taxi\project_taxi\DataBase.cpp(229): warning C4715: DataBase::findAdmin: значение возвращается не при всех путях выполнения
+D:\study\2semestr\project_taxi\project_taxi\DataBase.cpp(375): warning C4715: DataBase::getDriver: значение возвращается не при всех путях выполнения
+  project_taxi.vcxproj -> D:\study\2semestr\project_taxi\Debug\project_taxi.exe
